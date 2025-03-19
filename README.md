@@ -1,7 +1,6 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2OHdzMWoyMXdyeXB6MTV6YXZ1c216c200YWk3MGRncDNsdGVmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Krishna Rajoria</h1>
 <h3 align="center">A passionate Ai engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/780319072920429153/">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYycWpkaGFwZG04dXVhNXdkNmdtYXBoZ3k5cTlrazd2MXc0dzRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish95-bg&label=Profile%20views&color=0e75b6&style=flat" alt="krish95-bg" /> </p>
 
