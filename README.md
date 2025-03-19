@@ -1,22 +1,11 @@
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2OHdzMWoyMXdyeXB6MTV6YXZ1c216c200YWk3MGRncDNsdGVmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Krishna Rajoria</h1>
 <h3 align="center">A passionate Ai engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/780319072920429153/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish95-bg&label=Profile%20views&color=0e75b6&style=flat" alt="krish95-bg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-Hi, I'm Krishna Rajoria, a passionate B.Tech(CSE) student specializing in Artificial Intelligence at Vivekananda Global University, Jaipur (Expected CGPA: 7.5). I have a strong foundation in Machine Learning, Data Analytics, and Python programming, with hands-on experience in building innovative AI-driven solutions.
-
-🛠️ Key Areas of Expertise:
-Conversational AI & Multi-Language Translation: Proficient in leveraging models like SeamlessM4T and working with translation tasks in various languages.
-Machine Learning & NLP: Developed models for Anomaly Detection, Sentiment Analysis, and Comment Summarization using scikit-learn, spaCy, and NLTK.
-Vector Databases & Embedding Models: Expertise in generating text embeddings using Chroma DB for detecting patterns in textual data.
-AI Agent Development: Currently working on AI Agents for Business Development, using LangChain and LLMs.
-Full-Stack AI Solutions: Experience in API development using Flask, Chrome Plugin Development, and CI/CD pipelines using GitHub Actions and AWS.
-DevOps & MLOps: Well-versed in setting up Dockerized environments, building pipelines for model versioning, and deploying on AWS.
-📂 Projects:
-
-
-
 - 🔭 I’m currently working one step at a time, turning effort into success.” 🚀
 
 - 🌱 I’m currently learning **Generative AI**
